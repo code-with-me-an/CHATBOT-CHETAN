@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chatbot Chetan - Malayalam Roast Bot</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Manjari:wght@400;700&family=Bungee&display=swap"
+        rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <link rel="stylesheet" href="style.css" />
+    <style></style>
+</head>
+
+<body>
+    <div class="chatbot-container">
+        <a href="#" id="whatsapp-share" class="custom-share-button" target="_blank" rel="noopener noreferrer"
+            aria-label="Share on WhatsApp">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <g stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke="#2c3e50" fill="none">
+                    <circle cx="18" cy="5" r="3" fill="#f1c40f"></circle>
+                    <circle cx="6" cy="12" r="3" fill="#f39c12"></circle>
+                    <circle cx="18" cy="19" r="3" fill="#e67e22"></circle>
+                    <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line>
+                    <line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>
+                </g>
+            </svg>
+        </a>
+        <header class="chetan-header">
+            <h1>Chatbot Chetan</h1>
+            <p>നിങ്ങളുടെ സ്വന്തം റോസ്റ്റ് ബോട്ട്!</p>
+        </header>
+        <div class="chat-window" id="chat-window">
+            <div class="message-container bot-message-container">
+                <div class="message-box bot-message-box">
+                    <p>എന്തെങ്കിലും ഒന്ന് പറ, ഞാൻ റോസ്റ്റ് ചെയ്ത് തരാം!</p>
+                </div>
+            </div>
+        </div>
+        <div class="chat-input-area">
+            <input type="text" id="user-input" placeholder="Type something to get roasted..." />
+            <button id="send-button">Roast Me!</button>
+            <button id="ai-roast-button">AI Roast<i id="roboticon" class="fa-solid fa-robot"></i></button>
+            <button id="exit-button">മടുത്തു</button>
+        </div>
+    </div>
+
+    <div id="message-modal">
+        <div class="modal-content">
+            <h2 class="modal-title">Goodbye!</h2>
+            <div class="modal-body">
+                <p>Thanks for chatting. Come back anytime!</p>
+                <img src="https://i.pinimg.com/736x/bd/8a/a8/bd8aa806cdbe6c62359a5bca8622fcd0.jpg"
+                    alt="A movie character waving goodbye" class="roast-image" />
+            </div>
+            <div class="modal-footer">
+                <button id="close-modal-button">Close</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
