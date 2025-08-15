@@ -65,8 +65,7 @@ cd CHATBOT-CHETAN
 <br>
 
 **Home Page**
-
----
+<br>
 
 ![Home](photos/home.png)
 <br>
@@ -75,8 +74,7 @@ cd CHATBOT-CHETAN
 
 
 **Roast Mode**
-
----
+<br>
 
 ![Roast](photos/roastme.png)
 <br>
@@ -85,8 +83,7 @@ cd CHATBOT-CHETAN
 
 
 **AI Roast Mode**
-
----
+<br>
 
 ![Ai](photos/airoast.png)
 <br>
