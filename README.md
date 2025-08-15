@@ -66,16 +66,22 @@ cd CHATBOT-CHETAN
 
 **Home Page**
 ![Home](photos/home.png)
+<br>
+
 *The welcoming screen of Chatbot Chetan.*
 
 
 **Roast Mode**
 ![Roast](photos/roastme.png)
+<br>
+
 *Classic Malayalam-style roast with static image and dialogues.*
 
 
 **AI Roast Mode**
 ![Ai](photos/airoast.png)
+<br>
+
 *AI-generated witty comebacks that make every reply hilarious.*
 
 
