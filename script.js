@@ -468,7 +468,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
 });
-const shareTitle = 'Check out this awesome page!';
+const shareTitle = 'Give Chatbot Chetan a go and enjoy some epic Malayalam-style roasts!';
 const shareUrl = window.location.href;
 const encodedText = encodeURIComponent(`${shareTitle}\n\n${shareUrl}`);
 const whatsappLink = `https://api.whatsapp.com/send?text=${encodedText}`;

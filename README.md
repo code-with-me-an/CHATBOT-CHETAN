@@ -1,11 +1,5 @@
 # 🤖 Chatbot Chetan
-
-<p align="center">
-<a href="https://code-with-me-an.github.io/CHATBOT-CHETAN/" target="_blank">
-<img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github" alt="Live Demo">
-</a>
-</p>
-
+<br>
 <p align="center">
 <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
 <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Project Status">
@@ -13,9 +7,9 @@
 </p>
 
 ## 🎭 About the Project
-**Chatbot Chetan** is *not your average AI assistant*. It’s a sarcastic, humorous, and slightly savage chatbot that roasts your messages with iconic **Malayalam movie dialogues**. Think of it as your friendly frenemy — always ready with a witty comeback.
+**Chatbot Chetan** is *not your average AI assistant*. It’s a sarcastic, humorous, and slightly savage chatbot that roasts your messages with iconic **Malayalam movie dialogues**. Always ready to roast, but make it fun.
 
-On top of that, it features an **AI-powered roast mode** using Google API, along with a **Text-to-Audio framework** so it can deliver those burns out loud for maximum effect.
+On top of that, it features an **AI-powered roast mode** using Google API, along with a **Text-to-Audio framework** so it can make every roast hit harder.
 
 ### ✨ Core Features
 - 💬 **Malayalam Movie Dialogue Roasts** – Responds to your messages with legendary Mollywood comebacks.
@@ -46,3 +40,35 @@ cd CHATBOT-CHETAN
 
 # Run the bot
 # Just open index.html in your browser
+```
+## 📸 Demo Screenshot
+
+
+## 🤝 Contributing
+Contributions make the open-source community an amazing place to learn and create. Any contributions you make are greatly appreciated.
+
+```bash
+# Example workflow
+# >Fork the Project
+# >Create your Feature Branch 
+git checkout -b feature/AmazingFeature
+# >Commit your Changes
+git commit -m 'Add some AmazingFeature'
+# >Open a Pull Request
+git push origin feature/AmazingFeature
+```
+
+## 📄 License
+Distributed under the MIT License. See LICENSE for details.
+
+
+## 💬 Final Note
+"Ivide chat cheyyan vannal, roast edukkan ready aavuka."
+🔥 Chatbot Chetan – Because sometimes, your messages deserve a Malayalam-style burn.
+
+<p align="center">
+Project Link: <a href="https://code-with-me-an.github.io/CHATBOT-CHETAN/" target="_blank">
+</a>
+</p>
+
+
