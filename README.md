@@ -8,12 +8,14 @@
 
 ## 🎭 About the Project
 <br>
+
 **Chatbot Chetan** is *not your average AI assistant*. It’s a sarcastic, humorous, and slightly savage chatbot that roasts your messages with iconic **Malayalam movie dialogues**. Always ready to roast, but make it fun.
 
 On top of that, it features an **AI-powered roast mode** using Google API, along with a **Text-to-Audio framework** so it can make every roast hit harder.
 
 ### ✨ Core Features
 <br>
+
 - 💬 **Malayalam Movie Dialogue Roasts** – Responds to your messages with legendary Mollywood comebacks.
 - 🤖 **AI Roast Mode** – Uses Google API to generate next-level burns.
 - 🔊 **Text-to-Speech** – Lets you *hear* the roast for full dramatic effect.
@@ -25,6 +27,7 @@ On top of that, it features an **AI-powered roast mode** using Google API, along
 
 ## 🛠 Tech Stack
 <br>
+
 - **HTML5** – Markup
 - **CSS3** – Styling
 - **JavaScript (ES6)** – Logic
@@ -60,6 +63,7 @@ cd CHATBOT-CHETAN
 
 ## 📸 Demo Screenshots
 <br>
+
 **Home Page**
 ![Home](photos/home.png)
 The welcoming screen of Chatbot Chetan.
@@ -76,6 +80,7 @@ AI-generated witty comebacks that make every reply hilarious.
 
 ## 🤝 Contributing
 <br>
+
 Contributions make the open-source community an amazing place to learn and create. Any contributions you make are greatly appreciated.
 
 ---
@@ -94,12 +99,14 @@ git push origin feature/AmazingFeature
 ---
 ## 📄 License
 <br>
+
 Distributed under the MIT License. See LICENSE for details.
 
 ---
 
 ## 💬 Final Note
 <br>
+
 Ivide chat cheyyan vannal, roast edukkan ready aavuka.
 🔥 Chatbot Chetan – Because sometimes, your messages deserve a Malayalam-style burn.
 
