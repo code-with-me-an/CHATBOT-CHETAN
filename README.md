@@ -67,8 +67,7 @@ Distributed under the MIT License. See LICENSE for details.
 🔥 Chatbot Chetan – Because sometimes, your messages deserve a Malayalam-style burn.
 
 <p align="center">
-Project Link: <a href="https://code-with-me-an.github.io/CHATBOT-CHETAN/" target="_blank">
-</a>
+Project Link: <a href="https://code-with-me-an.github.io/CHATBOT-CHETAN/" target="_blank">Try chatbot chetan</a>
 </p>
 
 
