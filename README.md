@@ -1,4 +1,5 @@
-🤖 Chatbot Chetan
+# 🤖 Chatbot Chetan
+
 <p align="center">
 <a href="https://code-with-me-an.github.io/CHATBOT-CHETAN/" target="_blank">
 <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github" alt="Live Demo">
@@ -11,53 +12,37 @@
 <img src="https://img.shields.io/badge/tech-HTML%2FCSS%2FJS-blue.svg" alt="Tech Stack">
 </p>
 
-A friendly, conversational AI built with vanilla JavaScript, designed to provide instant and engaging responses to users.
+## 🎭 About the Project
+**Chatbot Chetan** is *not your average AI assistant*. It’s a sarcastic, humorous, and slightly savage chatbot that roasts your messages with iconic **Malayalam movie dialogues**. Think of it as your friendly frenemy — always ready with a witty comeback.
 
-✨ Core Features
-💬 Simple & Interactive: Engages users in a simple, rule-based conversation.
+On top of that, it features an **AI-powered roast mode** using Google API, along with a **Text-to-Audio framework** so it can deliver those burns out loud for maximum effect.
 
-🚀 Lightweight & Fast: Built with pure HTML, CSS, and JavaScript for a speedy user experience.
+### ✨ Core Features
+- 💬 **Malayalam Movie Dialogue Roasts** – Responds to your messages with legendary Mollywood comebacks.
+- 🤖 **AI Roast Mode** – Uses Google API to generate next-level burns.
+- 🔊 **Text-to-Speech** – Lets you *hear* the roast for full dramatic effect.
+- 🚀 **Lightweight & Fast** – Built with pure HTML, CSS, and JavaScript.
+- 🎨 **Clean, Responsive UI** – Works smoothly on desktop and mobile.
+- 🛠 **Easily Customizable** – Conversation logic is simple to tweak in `script.js`.
 
-🎨 Clean UI: A clean and intuitive user interface for easy interaction.
+---
 
-📱 Responsive Design: Works smoothly on both desktop and mobile browsers.
+## 🛠 Tech Stack
+- **HTML5** – Markup
+- **CSS3** – Styling
+- **JavaScript (ES6)** – Logic
+- **Google API** – AI roast generation
+- **Text-to-Speech Framework** – Roast delivery
 
-💡 Easily Customizable: The conversation logic is simple to modify and expand in the script.js file.
+---
 
-🛠️ Tech Stack
-This project was built using fundamental web technologies, making it easy to understand and maintain:
-
-Markup: HTML5
-
-Styling: CSS3
-
-Logic: JavaScript (ES6)
-
-🚀 Quick Start
-Get your local copy up and running in a few simple steps.
-
-Clone the repo:
-
+## 🚀 Quick Start
+```bash
+# Clone the repo
 git clone https://github.com/code-with-me-an/CHATBOT-CHETAN.git
 
-Navigate to the directory:
-
+# Navigate to the directory
 cd CHATBOT-CHETAN
 
-Run the bot!
-
-Simply open the index.html file in your web browser.
-
-🤝 Contributing
-Contributions make the open-source community an amazing place to learn and create. Any contributions you make are greatly appreciated.
-
-Fork the Project
-
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-Open a Pull Request
-
-📄 License
-Distributed under the MIT License. See LICENSE for more information.
+# Run the bot
+# Just open index.html in your browser
