@@ -44,6 +44,7 @@ On top of that, it features an **AI-powered roast mode** using Google API, along
 
 ## 🚀 Quick Start
 <br>
+
 ```bash
 # Clone the repo
 git clone https://github.com/code-with-me-an/CHATBOT-CHETAN.git
@@ -89,6 +90,7 @@ git commit -m 'Add some AmazingFeature'
 # Open a Pull Request
 git push origin feature/AmazingFeature
 ```
+
 ---
 ## 📄 License
 <br>
@@ -98,7 +100,7 @@ Distributed under the MIT License. See LICENSE for details.
 
 ## 💬 Final Note
 <br>
-"Ivide chat cheyyan vannal, roast edukkan ready aavuka."
+Ivide chat cheyyan vannal, roast edukkan ready aavuka.
 🔥 Chatbot Chetan – Because sometimes, your messages deserve a Malayalam-style burn.
 
 ---
